@@ -8,6 +8,6 @@ class demojava
 	{
 		System.out.println("Hi jenkins!!!");
 		System.out.println("hello 2021!!!");
-		System.out.println("hows it covid!!!");
+		
 	}
 }
