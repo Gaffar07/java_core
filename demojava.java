@@ -9,9 +9,6 @@ class demojava
 		System.out.println("Hi jenkins!!!");
 		System.out.println("Hi jenkins!!!");
 		System.out.println("Hi jenkins!!!");
-		System.out.println("Hi jenkins!!!");
-		System.out.println("Hi jenkins!!!");
-		System.out.println("Hi jenkins!!!");
 		
 		
 	}
