@@ -6,7 +6,8 @@ class demojava
 
 	public static void main(String args[])
 	{
-		System.out.println("Hi jenkins!!!");
+		int a=100
+		System.out.println("Hi jenkins!!!"+a);
 		System.out.println("Hi jenkins!!!");
 		System.out.println("Hi jenkins!!!");
 		
